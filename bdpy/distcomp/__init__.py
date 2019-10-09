@@ -2,5 +2,5 @@
 
 This package is a part of BdPy.
 '''
-
-from ./distcomp import *
+import distcomp
+from distcomp import *
